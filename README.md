@@ -1,19 +1,8 @@
-# React Calculator
-This calculator app is developed react.js.
+## Calculator Application
 
-# Technology Usage
-- Javascript
-- React.js
-- Math.js
-- immutability-helper
+This is an simple calculator application.
 
-# Describe Component
-- App.js is the main component
-- Display.js is for showing inputs and results
-- Buttons.js is a container of "button"
-- Button.js is providing all elements for making event
+## Screenshot
 
-# Screen shoots
-![1](https://user-images.githubusercontent.com/25170256/54364233-9d52d180-4696-11e9-90f1-4b6b2648c373.JPG)
-![2](https://user-images.githubusercontent.com/25170256/54364230-9d52d180-4696-11e9-8cfb-e604314fd538.JPG)
-![3](https://user-images.githubusercontent.com/25170256/54364229-9d52d180-4696-11e9-9318-bfbb60a9925d.JPG)
+![1](https://images.pexels.com/photos/414612/pexels-photo-414612.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500)
+![2](https://images.pexels.com/photos/414612/pexels-photo-414612.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500)
